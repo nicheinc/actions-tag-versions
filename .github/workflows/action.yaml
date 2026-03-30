@@ -1,4 +1,4 @@
-name: Release
+name: Update Major Version Tag
 
 # This workflow needs write access because we are hoping to push tags to the
 # remote repository.
