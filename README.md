@@ -10,7 +10,7 @@ For an example calling workflow, see
 a `push` trigger filtered as follows, to prevent the workflow from possibly
 triggering itself:
 
-```
+```yaml
 on:
   push:
     tags:
